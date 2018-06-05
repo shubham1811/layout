@@ -1,0 +1,519 @@
+body{
+  background-color: #f1f1f1;
+}
+
+.first
+{
+  top: 10%;
+  position: absolute;
+  margin-left: 300px;
+}
+
+.firstnav nav img{
+  width: 150px;
+}
+.first span
+{
+  font-family: 'Roboto Mono', monospace;
+}
+.first .ev0
+{
+   box-sizing: content-box;
+   width: 700px;
+   height: 10px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.first .evo span{
+    font-family: 'Indie Flower', cursive;
+}
+.first .ev1
+{
+  margin-top: 6px;
+   box-sizing: content-box;
+   width: 700px;
+   height: 70px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.first ::placeholder
+{
+  padding-left: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+.first form .ev1  input[type=text]{
+  margin-left: 30px;
+  width: 300px;
+}
+.first form .ev1 input[type=year]{
+  margin-left: 31px;
+  width: 300px;
+}
+.first .ev2
+{
+   margin-top: 6px;
+   box-sizing: content-box;
+   width: 700px;
+   height: 170px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.first .ev2 .fper
+{
+  margin-left: 15px;
+  width: 200px;
+}
+.first .ev2 .fpt
+{
+  margin-left: 40px;
+  width: 200px;
+}
+.first .ev2 .fst
+{
+  margin-left: 57px;
+  width: 200px;
+}
+.first .ev2 .fnd
+{
+  margin-left: 21px;
+  width: 200px;
+}
+.first .ev2 .fwe
+{
+  margin-left: 80px;
+  width: 200px;
+}
+.first .ev3
+{
+   margin-top: 6px;
+   box-sizing: content-box;
+   width: 700px;
+   height: 20px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.first .ev3 a button
+{
+  width: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+.first .ev3 a{
+  padding-left: 30px;
+
+}
+.first .ficons
+{
+  position: absolute;
+}
+.ficons
+{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.ficons a i
+{
+  width: 40px;
+  text-decoration:none;
+  color: black;
+  font-size:40px
+}
+.vl {
+    border-left: 0.5px solid black;
+    height: 560px;
+    position: absolute;
+    top: 8%;
+    margin-left: 130px;
+}
+.second
+{
+  top: 20%;
+  margin-left: 290px;
+  position: absolute;
+}
+.second .sev2
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 120px;
+  border: 0.4px groove black;
+}
+.second form .sev2  .subtitle input[type=text]{
+  margin-left: 30px;
+  width: 300px;
+}
+.second form .sev2  .subs input[type=text]{
+  margin-left: 100px;
+  width: 300px;
+}
+.second form .sev2  span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.second .sev3
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 90px;
+  border: 0.4px groove black;
+}
+.second .sev3 span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.second form .sev3 input[type=color]
+{
+  margin-left: 100px;
+  width: 300px;
+}
+.second ::placeholder
+{
+  padding-left: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+.sicons
+{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.sicons a i
+{
+  width: 40px;
+  text-decoration:none;
+  color: black;
+  font-size:40px
+}
+.secondnav nav img{
+  width: 150px;
+}
+.second .sev1
+{
+   box-sizing: content-box;
+   width: 640px;
+   height: 10px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.second .sev1 span{
+    font-family: 'Indie Flower', cursive;
+}
+.second .sev4 a button
+{
+  width: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+.second .sev4 a{
+  padding-left: 30px;
+}
+.second .sev4
+{
+   margin-top: 8px;
+   box-sizing: content-box;
+   width: 642px;
+   height: 20px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.thirdnav nav img{
+  width: 150px;
+}
+.cicons
+{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.cicons a i
+{
+  width: 40px;
+  text-decoration:none;
+  color: black;
+  font-size:40px
+}
+.third .cev1
+{
+   box-sizing: content-box;
+   width: 640px;
+   height: 10px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.third .cev1 span{
+    font-family: 'Indie Flower', cursive;
+}
+.third
+{
+  top: 13%;
+  margin-left: 290px;
+  position: absolute;
+}
+.third .cev2
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 120px;
+  border: 0.4px groove black;
+}
+.third form .cev2  .subtitle input[type=text]{
+  margin-left: 30px;
+  width: 300px;
+}
+.third form .cev2  .subs input[type=text]{
+  margin-left: 75px;
+  width: 300px;
+}
+.third form .cev2  span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.third .cev3
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 90px;
+  border: 0.4px groove black;
+}
+.third .cev3 span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.third form .cev3 input[type=color]
+{
+  margin-left: 75px;
+  width: 300px;
+}
+.third ::placeholder
+{
+  padding-left: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+.third .cev4
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 70px;
+  border: 0.4px groove black;
+}
+.third .cev4 span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.third form .cev4 input[type=text]
+{
+  margin-left: 10px;
+  width: 300px;
+}
+.third .cev5
+{
+  margin-top: 8px;
+  box-sizing: content-box;
+  width: 640px;
+  height: 20px;
+  padding: 30px;
+  border: 0.4px groove black;
+}
+.third .cev5 a button
+{
+  width: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+.third .cev5 a{
+  padding-left: 30px;
+}
+.fournav nav img{
+  width: 150px;
+}
+.classicons
+{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.classicons a i
+{
+  width: 40px;
+  text-decoration:none;
+  color: black;
+  font-size:40px
+}
+.four .clev1
+{
+   box-sizing: content-box;
+   width: 640px;
+   height: 10px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.four .clev1 span{
+    font-family: 'Indie Flower', cursive;
+}
+.four
+{
+  top: 13%;
+  margin-left: 290px;
+  position: absolute;
+}
+.four .clev2
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 120px;
+  border: 0.4px groove black;
+}
+.four form .clev2  .classroom input[type=text]{
+  margin-left: 58px;
+  width: 300px;
+}
+.four form .clev2  .classs input[type=text]{
+  margin-left: 101px;
+  width: 300px;
+}
+.four form .clev2  span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.four .clev3
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 90px;
+  border: 0.4px groove black;
+}
+.four .clev3 span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.four form .clev3 input[type=color]
+{
+  margin-left: 100px;
+  width: 300px;
+}
+.four ::placeholder
+{
+  padding-left: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+.four .clev4
+{
+  margin-top: 8px;
+  box-sizing: content-box;
+  width: 640px;
+  height: 20px;
+  padding: 30px;
+  border: 0.4px groove black;
+}
+.four .clev4 a button
+{
+  width: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+.four .clev4 a{
+  padding-left: 30px;
+}
+.fivenav nav img{
+  width: 150px;
+}
+.ticons
+{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.ticons a i
+{
+  width: 40px;
+  text-decoration:none;
+  color: black;
+  font-size:40px
+}
+.five .tev1
+{
+   box-sizing: content-box;
+   width: 640px;
+   height: 10px;
+   padding: 30px;
+   border: 0.4px groove black;
+}
+.five .tev1 span{
+    font-family: 'Indie Flower', cursive;
+}
+.five
+{
+  top: 8%;
+  margin-left: 290px;
+  position: absolute;
+}
+.five .tev2
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 300px;
+  border: 0.4px groove black;
+}
+.five form .tev2  .teacher input[type=text]{
+  margin-left: 58px;
+  width: 300px;
+}
+.five form .tev2  .subject input[type=text]{
+  margin-left: 101px;
+  width: 300px;
+}
+.five form .tev2  .email input[type=email]{
+  margin-left: 120px;
+  width: 300px;
+}
+.five form .tev2  .phone input[type=phone]{
+  margin-left: 120px;
+  width: 300px;
+}
+.five form .tev2  span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.five form .tev2 .sel select{
+  margin-left: 106px;
+  width: 300px;
+}
+.five .tev3
+{
+  margin-top: 10px;
+  box-sizing: content-box;
+  width: 700px;
+  height: 70px;
+  border: 0.4px groove black;
+}
+.five .tev3 span{
+  margin-left: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+.five form .tev3 input[type=color]
+{
+  margin-left: 100px;
+  width: 300px;
+}
+.five ::placeholder
+{
+  padding-left: 10px;
+  font-family: 'Great Vibes', cursive;
+}
+.five .tev4
+{
+  margin-top: 8px;
+  box-sizing: content-box;
+  width: 640px;
+  height: 20px;
+  padding: 30px;
+  border: 0.4px groove black;
+}
+.five .tev4 a button
+{
+  width: 80px;
+  font-family: 'Great Vibes', cursive;
+}
+.five .tev4 a{
+  padding-left: 30px;
+}
